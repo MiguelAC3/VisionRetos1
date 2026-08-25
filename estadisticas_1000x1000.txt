@@ -1,0 +1,5 @@
+minimo: 0
+maximo: 255
+media: 127.55715
+desviacion_estandar: 73.92742753455815
+num_valores: 1000000
